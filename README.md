@@ -101,3 +101,14 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 | 7 | [DUC2001]() | News | [Single Document Keyphrase Extraction Using Neighborhood Knowledge](https://www.aaai.org/Papers/AAAI/2008/AAAI08-136.pdf)|AAAI2008|
 
 The other descriptions ([KeywordExtractor-Datasets](https://github.com/LIAAD/KeywordExtractor-Datasets), [ake-datasets](https://github.com/boudinfl/ake-datasets)) of keyphrase extraction datasets.
+
+## Other Papers
+### Unified Supervised Models
+
+1. [An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction](https://aclanthology.org/N19-1292/), Wang Chen, Hou Pong Chan, Piji Li, Lidong Bing, Irwin King, NAACL2019, [Code](https://github.com/Chen-Wang-CUHK/KG-KE-KR-M).
+
+2. [Keyphrase Prediction With Pre-trained Language Model](https://arxiv.org/abs/2004.10462), Rui Liu, Zheng Lin, Weiping Wang, arXiv2020.
+
+3. [SenSeNet: Neural Keyphrase Generation with Document Structure](https://arxiv.org/abs/2012.06754), Yichao Luo, Zhengyan Li, Bingning Wang, Xiaoyu Xing, Qi Zhang, Xuanjing Huang, arXiv2020.
+
+4. [UniKeyphrase: A Unified Extraction and Generation Framework for Keyphrase Prediction](https://aclanthology.org/2021.findings-acl.73.pdf), Huanqin Wu, Wei Liu, Lei Li, Dan Nie, Tao Chen, Feng Zhang, Di Wang, ACL2021, [Code](https://github.com/thinkwee/UniKeyphrase).

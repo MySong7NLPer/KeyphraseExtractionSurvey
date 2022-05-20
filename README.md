@@ -64,11 +64,11 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 5. [WikiRank:Improving Keyphrase Extraction Based on Background Knowledge](https://arxiv.org/abs/1803.09000), *Yang Yu, Vincent Ng*, arXiv2018.
 
-6. [KeyGames: A Game Theoretic Approach to Automatic Keyphrase Extraction](https://aclanthology.org/2020.coling-main.184/), *Arnav Saxena, Mudit Mangal and Goonjan Jain*, COLING2020.
+6. [KeyGames: A Game Theoretic Approach to Automatic Keyphrase Extraction](https://aclanthology.org/2020.coling-main.184/), *Arnav Saxena, Mudit Mangal and Goonjan Jain*, COLING2020\(Outstanding Paper Award\), [Code](https://github.com/mangalm96/KeyGames-pke).
 
 7. [Scientific Keyphrase Identification and Classification by Pre-Trained Language Models Intermediate Task Transfer Learning](https://aclanthology.org/2020.coling-main.472/), *Seo Yeon Park, Cornelia Caragea*, COLING2020.
 
-8. [SIFRank: A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-Trained Language Model](https://ieeexplore.ieee.org/abstract/document/8954611), *YI SUN, HANGPING QIU, YU ZHENG, ZHONGWEI WANG, AND CHAORAN ZHANG*, IEEE Access2020.
+8. [SIFRank: A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-Trained Language Model](https://ieeexplore.ieee.org/abstract/document/8954611), *YI SUN, HANGPING QIU, YU ZHENG, ZHONGWEI WANG, AND CHAORAN ZHANG*, IEEE Access2020, [Code](https://github.com/sunyilgdx/SIFRank).
 
 9. [AttentionRank: Unsupervised keyphrase Extraction using Self and Cross Attentions](https://aclanthology.org/2021.emnlp-main.146/), *Haoran Ding and Xiao Luo*, EMNLP2021, [Code](https://github.com/hd10-iupui/AttentionRank).
 

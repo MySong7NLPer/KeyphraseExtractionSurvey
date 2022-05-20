@@ -80,7 +80,9 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 13. [Multi-Document Keyphrase Extraction: A Literature Review and the First Dataset](https://arxiv.org/abs/2110.01073), *Ori Shapira, Ramakanth Pasunuru, Ido Dagan, and Yael Amsterdamer*, arXiv2021.
 
-14. [Unsupervised Keyphrase Extraction via Interpretable Neural Networks](https://arxiv.org/abs/2203.07640), *Rishabh Joshi, Vidhisha Balachandran, Emily Saldanha, Maria Glenski, Svitlana Volkova, Yulia Tsvetkov*, arXiv2022.
+14. [Enhancing Keyphrase Extraction from Academic Articles with their Reference Information](https://arxiv.org/pdf/2111.14106.pdf), *Chengzhi Zhang, Lei Zhao, Mengyuan Zhao, Yingyi Zhang*, arXiv2021, [Code](https://bagithub.com/chengzhizhang/Keyphrase_Extraction).
+
+15. [Unsupervised Keyphrase Extraction via Interpretable Neural Networks](https://arxiv.org/abs/2203.07640), *Rishabh Joshi, Vidhisha Balachandran, Emily Saldanha, Maria Glenski, Svitlana Volkova, Yulia Tsvetkov*, arXiv2022.
 
 
 

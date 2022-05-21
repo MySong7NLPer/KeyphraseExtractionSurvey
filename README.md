@@ -14,7 +14,9 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 **[Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context](https://aclanthology.org/2021.emnlp-main.14.pdf)**, *Xinnian Liang, Shuangzhi Wu, Mu Li, and Zhoujun Li*, EMNLP2021, [Code](https://github.com/xnliang98/uke_ccrank).
 
 ## Toolkit
-**[PKE: An Open Source Python-based Keyphrase Extraction Toolkit](https://aclanthology.org/C16-2015.pdf)**, *Florian Boudin*, COLING2016, [Code](https://github.com/boudinfl/pke).
+1. **[PKE: An Open Source Python-based Keyphrase Extraction Toolkit](https://aclanthology.org/C16-2015.pdf)**, *Florian Boudin*, COLING2016, [Code](https://github.com/boudinfl/pke).
+
+2. **[Self-supervised Contextual Keyword and Keyphrase Retrieval with Self-Labelling](https://www.preprints.org/manuscript/201908.0073/v1)**, *Prafull Sharma and Yingbo Li*, ArXiv2019, [KeyBERT](https://maartengr.github.io/KeyBERT/), [Code](https://github.com/MaartenGr/keyBERT).
 
 ## Recent Popular Papers
 ### Supervised Models

@@ -26,7 +26,7 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 4. [Using Human Attention to Extract Keyphrase from Microblog Post](https://aclanthology.org/P19-1588/), *Yingyi Zhang, Chengzhi Zhang*, ACL2019.
 
-5. [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/pdf/1910.08840.pdf), *Dhruva Sahrawat, Debanjan Mahata, Raymond Zhang, Mayank Kulkarni, Agniv Sharma, Rakesh Gosangi, Amanda Stent, Yaman Kumar, Rajiv Ratn Shah, Roger Zimmermann*, arXiv2019.
+5. [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/pdf/1910.08840.pdf), *Dhruva Sahrawat, Debanjan Mahata, Raymond Zhang, Mayank Kulkarni, Agniv Sharma, Rakesh Gosangi, Amanda Stent, Yaman Kumar, Rajiv Ratn Shah, Roger Zimmermann*, ArXiv2019.
 
 6. [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://aclanthology.org/D19-1521/), *Lee Xiong, Chuan Hu, Chenyan Xiong, Daniel Campos, Arnold Overwijk*, EMNLP2019.
 
@@ -38,11 +38,11 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 10. [A Joint Learning Approach based on Self-Distillation for Keyphrase Extraction from Scientific Documents](https://aclanthology.org/2020.coling-main.56/), *Tuan Manh Lai, Trung Bui, Doo Soon Kim, Quan Hung Tran*, COLING2020.
 
-11. [Joint Keyphrase Chunking and Salience Ranking with BERT](https://openreview.net/forum?id=duSg8EGOlX3), *Si Sun, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu, Jie Bao*, arXiv2020, [Code](https://github.com/thunlp/BERT-KPE).
+11. [Joint Keyphrase Chunking and Salience Ranking with BERT](https://openreview.net/forum?id=duSg8EGOlX3), *Si Sun, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu, Jie Bao*, ArXiv2020, [Code](https://github.com/thunlp/BERT-KPE).
 
-12. [Keyphrase Extraction with Dynamic Graph Convolutional Networks and Diversified Inference](https://arxiv.org/abs/2010.12828), *Haoyu Zhang, Dingkun Long, Guangwei Xu, Pengjun Xie, Fei Huang, Ji Wang*, arXiv2020.
+12. [Keyphrase Extraction with Dynamic Graph Convolutional Networks and Diversified Inference](https://arxiv.org/abs/2010.12828), *Haoyu Zhang, Dingkun Long, Guangwei Xu, Pengjun Xie, Fei Huang, Ji Wang*, ArXiv2020.
 
-13. [Keyphrase Extraction with Span-based Feature Representations](https://arxiv.org/abs/2002.05407), *Funan Mu, Zhenting Yu, LiFeng Wang, Yequan Wang, Qingyu Yin, Yibo Sun, Liqun Liu, Teng Ma, Jing Tang, Xing Zhou*, arXiv2020.
+13. [Keyphrase Extraction with Span-based Feature Representations](https://arxiv.org/abs/2002.05407), *Funan Mu, Zhenting Yu, LiFeng Wang, Yequan Wang, Qingyu Yin, Yibo Sun, Liqun Liu, Teng Ma, Jing Tang, Xing Zhou*, ArXiv2020.
 
 14. [Incorporating Multimodal Information in Open-Domain Web Keyphrase Extraction](https://aclanthology.org/2020.emnlp-main.140/), *Yansen Wang et al.*, EMNLP2020, [Code](https://github.com/victorywys/SMART-KPE.).
 
@@ -62,7 +62,7 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 4. [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://aclanthology.org/K18-1022/?ref=https://githubhelp.com), *Kamil Bennani-Smires, Claudiu Musat, Andreaa Hossmann, Michael Baeriswyl, Martin Jaggi*, CoNLL 2018, [Code](https://github.com/swisscom/ai-research-keyphrase-extraction).
 
-5. [WikiRank:Improving Keyphrase Extraction Based on Background Knowledge](https://arxiv.org/abs/1803.09000), *Yang Yu, Vincent Ng*, arXiv2018.
+5. [WikiRank:Improving Keyphrase Extraction Based on Background Knowledge](https://arxiv.org/abs/1803.09000), *Yang Yu, Vincent Ng*, ArXiv2018.
 
 6. [KeyGames: A Game Theoretic Approach to Automatic Keyphrase Extraction](https://aclanthology.org/2020.coling-main.184/), *Arnav Saxena, Mudit Mangal and Goonjan Jain*, COLING2020\(Outstanding Paper Award\), [Code](https://github.com/mangalm96/KeyGames-pke).
 
@@ -74,22 +74,22 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 10. [Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context](https://aclanthology.org/2021.emnlp-main.14/), *Xinnian Liang, Shuangzhi Wu, Mu Li and Zhoujun Li*, EMNLP2021, [Code](https://github.com/xnliang98/uke_ccrank).
 
-11. [MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction](https://arxiv.org/abs/2110.06651), *Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Shiliang Zhang, Bing Li, Wei Wang, Xin Cao*, arXiv2021.
+11. [MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction](https://arxiv.org/abs/2110.06651), *Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Shiliang Zhang, Bing Li, Wei Wang, Xin Cao*, ArXiv2021.
 
 12. [Extending Neural Keyword Extraction with TF-IDF tagset matching](https://aclanthology.org/2021.hackashop-1.4/), *Boshko Koloski et al.*, EACL2021.
 
-13. [Multi-Document Keyphrase Extraction: A Literature Review and the First Dataset](https://arxiv.org/abs/2110.01073), *Ori Shapira, Ramakanth Pasunuru, Ido Dagan, and Yael Amsterdamer*, arXiv2021.
+13. [Multi-Document Keyphrase Extraction: A Literature Review and the First Dataset](https://arxiv.org/abs/2110.01073), *Ori Shapira, Ramakanth Pasunuru, Ido Dagan, and Yael Amsterdamer*, ArXiv2021.
 
-14. [Enhancing Keyphrase Extraction from Academic Articles with their Reference Information](https://arxiv.org/pdf/2111.14106.pdf), *Chengzhi Zhang, Lei Zhao, Mengyuan Zhao, Yingyi Zhang*, arXiv2021, [Code](https://bagithub.com/chengzhizhang/Keyphrase_Extraction).
+14. [Enhancing Keyphrase Extraction from Academic Articles with their Reference Information](https://arxiv.org/pdf/2111.14106.pdf), *Chengzhi Zhang, Lei Zhao, Mengyuan Zhao, Yingyi Zhang*, ArXiv2021, [Code](https://bagithub.com/chengzhizhang/Keyphrase_Extraction).
 
-15. [Unsupervised Keyphrase Extraction via Interpretable Neural Networks](https://arxiv.org/abs/2203.07640), *Rishabh Joshi, Vidhisha Balachandran, Emily Saldanha, Maria Glenski, Svitlana Volkova, Yulia Tsvetkov*, arXiv2022.
+15. [Unsupervised Keyphrase Extraction via Interpretable Neural Networks](https://arxiv.org/abs/2203.07640), *Rishabh Joshi, Vidhisha Balachandran, Emily Saldanha, Maria Glenski, Svitlana Volkova, Yulia Tsvetkov*, ArXiv2022.
 
 
 
 
 ## Survey
 1. **[Automatic Keyphrase Extraction: A Survey of the State of the Art](https://aclanthology.org/P14-1119.pdf)**, *Kazi Saidul Hasan and Vincent Ng*, ACL2014.
-2. **[A Review of Keyphrase Extraction](https://arxiv.org/abs/1905.05044)**, *Eirini Papagiannopoulou and Grigorios Tsoumakas*, arXiv2019.
+2. **[A Review of Keyphrase Extraction](https://arxiv.org/abs/1905.05044)**, *Eirini Papagiannopoulou and Grigorios Tsoumakas*, ArXiv2019.
 
 
 
@@ -111,8 +111,8 @@ The other descriptions ([KeywordExtractor-Datasets](https://github.com/LIAAD/Key
 
 1. [An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction](https://aclanthology.org/N19-1292/), *Wang Chen, Hou Pong Chan, Piji Li, Lidong Bing, Irwin King*, NAACL2019, [Code](https://github.com/Chen-Wang-CUHK/KG-KE-KR-M).
 
-2. [Keyphrase Prediction With Pre-trained Language Model](https://arxiv.org/abs/2004.10462), *Rui Liu, Zheng Lin, Weiping Wang*, arXiv2020.
+2. [Keyphrase Prediction With Pre-trained Language Model](https://arxiv.org/abs/2004.10462), *Rui Liu, Zheng Lin, Weiping Wang*, ArXiv2020.
 
-3. [SenSeNet: Neural Keyphrase Generation with Document Structure](https://arxiv.org/abs/2012.06754), *Yichao Luo, Zhengyan Li, Bingning Wang, Xiaoyu Xing, Qi Zhang, Xuanjing Huang*, arXiv2020.
+3. [SenSeNet: Neural Keyphrase Generation with Document Structure](https://arxiv.org/abs/2012.06754), *Yichao Luo, Zhengyan Li, Bingning Wang, Xiaoyu Xing, Qi Zhang, Xuanjing Huang*, ArXiv2020.
 
 4. [UniKeyphrase: A Unified Extraction and Generation Framework for Keyphrase Prediction](https://aclanthology.org/2021.findings-acl.73.pdf), *Huanqin Wu, Wei Liu, Lei Li, Dan Nie, Tao Chen, Feng Zhang, Di Wang*, ACL2021, [Code](https://github.com/thinkwee/UniKeyphrase).

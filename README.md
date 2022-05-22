@@ -60,7 +60,7 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 2. [PositionRank: An Unsupervised Approach to Keyphrase Extraction from Scholarly Documents](https://aclanthology.org/P17-1102/), *Corina Florescu and Cornelia Caragea*, ACL2017.
 
-3. [Salience Rank: Efficient Keyphrase Extraction with Topic Modeling](https://aclanthology.org/P17-2084/), *Nedelina Teneva, Weiwei Cheng*, ACL2017, [Code](https://github.com/methanet/saliencerank.git.).
+3. [SalienceRank: Efficient Keyphrase Extraction with Topic Modeling](https://aclanthology.org/P17-2084/), *Nedelina Teneva, Weiwei Cheng*, ACL2017, [Code](https://github.com/methanet/saliencerank.git.).
 
 4. [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://aclanthology.org/K18-1022/?ref=https://githubhelp.com), *Kamil Bennani-Smires, Claudiu Musat, Andreaa Hossmann, Michael Baeriswyl, Martin Jaggi*, CoNLL 2018, [Code](https://github.com/swisscom/ai-research-keyphrase-extraction).
 
@@ -100,11 +100,11 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | [KP20k](https://github.com/memray/seq2seq-keyphrase) | Scientific Paper Abstracts | [Deep Keyphrase Generation](https://aclanthology.org/P17-1054.pdf)|ACL2017|
 | 2 | [OpenKP](https://microsoft.github.io/msmarco/) | Open Domain | [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://aclanthology.org/D19-1521.pdf)|EMNLP-IJCNLP2019|
-| 3 | [NUS]() | Full-text Scientific Papers | [Keyphrase Extraction in Scientific Publications](https://aclanthology.org/C12-3003.pdf)|COLING2012-Demo|
+| 3 | [NUS](https://github.com/boudinfl/ake-datasets) | Full-text Scientific Papers | [Keyphrase Extraction in Scientific Publications](https://aclanthology.org/C12-3003.pdf)|COLING2012-Demo|
 | 4 | [SemEval2010](https://github.com/boudinfl/semeval-2010-pre) | Full-text Scientific Papers | [How Document Pre-processing affects Keyphrase Extraction Performance](https://aclanthology.org/W16-3917.pdf)|COLING2016-WorkShop|
 | 5 | [Krapivin](http://disi.unitn.it/~krapivin/) | Full-text Scientific Papers | [Large dataset for keyphrases extraction](http://eprints.biblio.unitn.it/1671/1/disi09055-krapivin-autayeu-marchese.pdf)|-|
-| 6 | [Inspec]() | Scientific Paper Abstracts | [Improved automatic keyword extraction given more linguistic knowledge](https://aclanthology.org/W03-1028.pdf)|EMNLP2003|
-| 7 | [DUC2001]() | News | [Single Document Keyphrase Extraction Using Neighborhood Knowledge](https://www.aaai.org/Papers/AAAI/2008/AAAI08-136.pdf)|AAAI2008|
+| 6 | [Inspec](https://github.com/LIAAD/KeywordExtractor-Datasets) | Scientific Paper Abstracts | [Improved automatic keyword extraction given more linguistic knowledge](https://aclanthology.org/W03-1028.pdf)|EMNLP2003|
+| 7 | [DUC2001](https://github.com/boudinfl/ake-datasets) | News | [Single Document Keyphrase Extraction Using Neighborhood Knowledge](https://www.aaai.org/Papers/AAAI/2008/AAAI08-136.pdf)|AAAI2008|
 
 The other descriptions ([KeywordExtractor-Datasets](https://github.com/LIAAD/KeywordExtractor-Datasets), [ake-datasets](https://github.com/boudinfl/ake-datasets)) of keyphrase extraction datasets.
 

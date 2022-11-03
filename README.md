@@ -11,7 +11,7 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 #### Supervised Model
 **[Importance Estimation from Multiple Perspectives for Keyphrase Extraction](https://aclanthology.org/P14-1119.pdf)**, *Mingyang Song, Liping Jing, and Lin Xiao*, EMNLP2021, [Code](https://github.com/MySong7NLPer/KIEMP).
 #### Unsupervised Model
-**[Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context](https://aclanthology.org/2021.emnlp-main.14.pdf)**, *Xinnian Liang, Shuangzhi Wu, Mu Li, and Zhoujun Li*, EMNLP2021, [Code](https://github.com/xnliang98/uke_ccrank).
+**[Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context](https://aclanthology.org/2021.emnlp-main.14.pdf)**, *Xinnian Liang, Shuangzhi Wu, Mu Li, and Zhoujun Li*, EMNLP2021, [Code](https://github.com/xnliang98/uke_ccrank), [Code for Chinese](https://github.com/xnliang98/CKE-ZH).
 
 ## Toolkit
 1. **[PKE: An Open Source Python-based Keyphrase Extraction Toolkit](https://aclanthology.org/C16-2015.pdf)**, *Florian Boudin*, COLING2016, [Code](https://github.com/boudinfl/pke).

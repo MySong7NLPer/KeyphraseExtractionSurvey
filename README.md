@@ -6,12 +6,9 @@
 </p>
 Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
+## LLM
+1. [Is ChatGPT A Good Keyphrase Generator? A Preliminary Study]([https://ieeexplore.ieee.org/abstract/document/8594884](https://arxiv.org/abs/2303.13001)), *Mingyang Song, Haiyun Jiang, Shuming Shi, Songfang Yao, Shilong Lu, Yi Feng, Huafeng Liu, Liping Jing*, ARXIV2023, [Data](https://github.com/MySong7NLPer/ChatGPT_as_Keyphrase_Generator).
 
-## SOTA
-#### Supervised Model
-**[Importance Estimation from Multiple Perspectives for Keyphrase Extraction](https://aclanthology.org/P14-1119.pdf)**, *Mingyang Song, Liping Jing, and Lin Xiao*, EMNLP2021, [Code](https://github.com/MySong7NLPer/KIEMP).
-#### Unsupervised Model
-**[Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context](https://aclanthology.org/2021.emnlp-main.14.pdf)**, *Xinnian Liang, Shuangzhi Wu, Mu Li, and Zhoujun Li*, EMNLP2021, [Code](https://github.com/xnliang98/uke_ccrank), [Code for Chinese](https://github.com/xnliang98/CKE-ZH).
 
 ## Toolkit
 1. **[PKE: An Open Source Python-based Keyphrase Extraction Toolkit](https://aclanthology.org/C16-2015.pdf)**, *Florian Boudin*, COLING2016, [Code](https://github.com/boudinfl/pke).
@@ -50,9 +47,9 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 15. [Capturing Global Informativeness in Open Domain Keyphrase Extraction](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_21), *Si Sun, Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu, and Jie Bao*, NLPCC2021, [Code](https://github.com/thunlp/BERT-KPE).
 
-16. [Importance Estimation from Multiple Perspectives for Keyphrase Extraction](https://aclanthology.org/2021.emnlp-main.215/), *Mingyang Song, Liping Jing and Lin Xiao*, EMNLP2021, [Code](https://github.com/MySong7NLPer/KIEMP)
+16. [Importance Estimation from Multiple Perspectives for Keyphrase Extraction](https://aclanthology.org/2021.emnlp-main.215/), *Mingyang Song, Liping Jing and Lin Xiao*, EMNLP2021.
 
-17. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://arxiv.org/abs/2205.02047), *Mingyang Song, Yi Feng and Liping Jing*, NAACL2022, [Code](https://github.com/MySong7NLPer/HyperMatch)
+17. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://arxiv.org/abs/2205.02047), *Mingyang Song, Yi Feng and Liping Jing*, NAACL2022, [Code](https://github.com/MySong7NLPer/HyperMatch).
 
 
 ### Unsupervised Models
@@ -74,7 +71,7 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 9. [AttentionRank: Unsupervised keyphrase Extraction using Self and Cross Attentions](https://aclanthology.org/2021.emnlp-main.146/), *Haoran Ding and Xiao Luo*, EMNLP2021, [Code](https://github.com/hd10-iupui/AttentionRank).
 
-10. [Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context](https://aclanthology.org/2021.emnlp-main.14/), *Xinnian Liang, Shuangzhi Wu, Mu Li and Zhoujun Li*, EMNLP2021, [Code](https://github.com/xnliang98/uke_ccrank).
+10. [Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context](https://aclanthology.org/2021.emnlp-main.14.pdf), *Xinnian Liang, Shuangzhi Wu, Mu Li, and Zhoujun Li*, EMNLP2021, [Code](https://github.com/xnliang98/uke_ccrank), [Code for Chinese](https://github.com/xnliang98/CKE-ZH).
 
 11. [MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction](https://arxiv.org/abs/2110.06651), *Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Shiliang Zhang, Bing Li, Wei Wang, Xin Cao*, ArXiv2021.
 
@@ -86,12 +83,24 @@ Organized by Mingyang Song (mingyang.song@bjtu.edu.cn).
 
 15. [Unsupervised Keyphrase Extraction via Interpretable Neural Networks](https://arxiv.org/abs/2203.07640), *Rishabh Joshi, Vidhisha Balachandran, Emily Saldanha, Maria Glenski, Svitlana Volkova, Yulia Tsvetkov*, ArXiv2022.
 
+16. [AGRank: Augmented Graph-based Unsupervised Keyphrase Extraction](https://aclanthology.org/2022.aacl-main.19.pdf), *Haoran Ding and Xiao Luo*, AACL2022.
 
+17. [Improving Embedding-based Unsupervised Keyphrase Extraction by Incorporating Structural Information](https://aclanthology.org/2023.findings-acl.66.pdf), *Mingyang Song, Huafeng Liu, Yi Feng, Liping Jing*, ACL2023.
 
+18. [Unsupervised Keyphrase Extraction by Learning Neural Keyphrase Set Function](https://aclanthology.org/2023.findings-acl.156.pdf), *Mingyang Song, Haiyun Jiang, Lemao Liu, Shuming Shi, Liping Jing*, ACL2023.
+
+19. [Improving Diversity in Unsupervised Keyphrase Extraction with Determinantal Point Process](https://dl.acm.org/doi/10.1145/3583780.3615141), *Mingyang Song, Huafeng Liu, Liping Jing*, CIKM2023.
+
+20. [HyperRank: Hyperbolic Ranking Model for Unsupervised Keyphrase Extraction](https://aclanthology.org/2023.emnlp-main.997.pdf), *Mingyang Song, Huafeng Liu, Liping Jing*, EMNLP2023.
+
+21. [Mitigating Over-generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection](https://aclanthology.org/2023.emnlp-main.1017.pdf), *Mingyang Song, Pengyu Xu, Yi Feng, Huafeng Liu, Liping Jing*, EMNLP2023.
+
+22. [PromptRank: Unsupervised Keyphrase Extraction Using Prompt](https://aclanthology.org/2023.acl-long.545.pdf), *Aobo Kong, Shiwan Zhao, Hao Chen, Qicheng Li, Yong Qin, Ruiqi Sun, Xiaoyan Bai*, ACL2023.
 
 ## Survey
-1. **[Automatic Keyphrase Extraction: A Survey of the State of the Art](https://aclanthology.org/P14-1119.pdf)**, *Kazi Saidul Hasan and Vincent Ng*, ACL2014.
-2. **[A Review of Keyphrase Extraction](https://arxiv.org/abs/1905.05044)**, *Eirini Papagiannopoulou and Grigorios Tsoumakas*, ArXiv2019.
+1. [Automatic Keyphrase Extraction: A Survey of the State of the Art](https://aclanthology.org/P14-1119.pdf), *Kazi Saidul Hasan and Vincent Ng*, ACL2014.
+2. [A Review of Keyphrase Extraction](https://arxiv.org/abs/1905.05044), *Eirini Papagiannopoulou and Grigorios Tsoumakas*, ArXiv2019.
+3. [A Survey on Recent Advances in Keyphrase Extraction from Pre-trained Language Models](https://aclanthology.org/2023.findings-eacl.161.pdf), *Mingyang Song, Yi Feng and Liping Jing*, EACL2023.
 
 
 
